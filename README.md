@@ -20,23 +20,8 @@ I'm actively looking for **internships and collaboration opportunities** where I
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aho102&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=c9f06b&icon_color=c9f06b&text_color=8a8a96" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aho102&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=c9f06b&text_color=8a8a96" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alinamaharjan063.com.np-c9f06b?style=flat-square&logo=googlechrome&logoColor=white)](https://alinamaharjan063.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alina_Maharjan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-maharjan-a069b83a9/)
-[![Gmail](https://img.shields.io/badge/Gmail-alinnnaa032@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alinnnaa032@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aho102&color=c9f06b&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-c9f06b?style=for-the-badge&logo=googlechrome&logoColor=black)](https://alinamaharjan063.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-maharjan-a069b83a9/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinnnaa032@gmail.com)
